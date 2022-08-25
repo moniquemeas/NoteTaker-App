@@ -11,49 +11,19 @@
       "id": "1"
     },
     {
-      "title": "Tuesday",
-      "text": "Training",
-      "id": "2"
-    },
-    {
       "title": "Wednesday",
       "text": "shopping",
       "id": "3"
     },
     {
       "title": "Thursday",
-      "text": "Cooking",
-      "id": "4"
-    },
-    {
-      "title": "Friday",
-      "text": "Yoga class",
-      "id": "5"
+      "text": "Groceries shopping",
+      "id": "3"
     },
     {
       "title": "Saturday",
-      "text": "Grocery shopping",
-      "id": "6"
-    },
-    {
-      "title": "Sunday",
-      "text": "Cook out",
-      "id": "7"
-    },
-    {
-      "title": "Monday",
-      "text": "School",
-      "id": "8"
-    },
-    {
-      "title": "Tuesday",
-      "text": "shopping",
-      "id": "9"
-    },
-    {
-      "title": "Wednesday",
-      "text": "Yoga",
-      "id": "10"
+      "text": "Camping",
+      "id": "4"
     }
   ]
 }
