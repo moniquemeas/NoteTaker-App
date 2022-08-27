@@ -24,6 +24,11 @@
       "title": "Saturday",
       "text": "Camping",
       "id": "4"
+    },
+    {
+      "title": "Sunday",
+      "text": "camping",
+      "id": "5"
     }
   ]
 }
